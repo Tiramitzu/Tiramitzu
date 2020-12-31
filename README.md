@@ -15,7 +15,7 @@
  
  ----
  
- ### Recent Github Activities
+ ### Recent Github Activity
  <!--START_SECTION:activity-->
  
  ----
