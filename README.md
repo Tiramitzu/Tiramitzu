@@ -1,9 +1,11 @@
-### <div align="center">👋 Hi! I'm Tiramitzu, a useless developer 👨‍💻 been playing with code since 2017 🚀</div>  
+### <div align="center">👋 Hi! I'm Tiramitzu, a useless developer from 🇮🇩 Indonesia 👨‍💻 been playing with code since 2017 🚀</div>  
   
   I'm still currently learning about 
   <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/> 
   and more about 
   <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25"/>
+  
+  My current project is something kinda like AI for android? (<a href="https://github.com/Tiramitzu/Mycroft-Android" target="_blank">Mycroft</a>)
   
   If you need help about our <a href="https://profilinator.rishav.dev/" target="_blank">Discord Music Bot</a> join our <a href="https://discord.gg/AaGN76ZmEq" target="_blank"> Discord Server</a>
 ## Connect with me  
