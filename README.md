@@ -1,4 +1,8 @@
+----
 ### <div align="center">👋 Hi! I'm Tiramitzu, a useless developer from 🇮🇩 Indonesia 👨‍💻 been playing with code since 2017 🚀</div>  
+  ----
+  
+  ### A Little About Me
   
   I'm still currently learning about 
   <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/> 
@@ -8,6 +12,15 @@
   My current project is something kinda like AI for android? (<a href="https://github.com/Tiramitzu/Mycroft-Android" target="_blank">Mycroft</a>)
   
   If you need help about our <a href="https://profilinator.rishav.dev/" target="_blank">Discord Music Bot</a> join our <a href="https://discord.gg/AaGN76ZmEq" target="_blank"> Discord Server</a>
+ 
+ ----
+ 
+ ### Recent Github Activities
+ <!--START_SECTION:activity-->
+ <!--END_SECTION:activity-->
+ 
+ ----
+  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Tiramitzu" target="_blank">
@@ -25,11 +38,12 @@
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCLnjXUT0hzi9YW8AddonJtA" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
   
 
-<br/>  
+<br />  
 
+----
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tiramitzu&show_icons=true&count_private=true&hide_border=true&theme=cobalt" align="center" /></div>  
@@ -53,4 +67,5 @@
 <br />
 
 ----
+
 <div align="center">A part of it is generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
