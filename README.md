@@ -1,61 +1,11 @@
-### <div align="center">I'm Tiramitzu, a useless developer 👨‍💻 been playing with code since 2017 🚀</div>  
+### <div align="center">👋 Hi! I'm Tiramitzu, a useless developer 👨‍💻 been playing with code since 2017 🚀</div>  
   
-
-- 🔭 I’m currently working on [Mycroft-Android](https://github.com/Tiramitzu/Mycroft-Android) for myself  
+  I'm still currently learning about 
+  <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/> 
+  and more about 
+  <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25"/>
   
-
-- 🌱 I’m currently learning java and javascript  
-  
-
-- ❓ Don't ask me about anything (lmao)  
-  
-
-- ⚡ Fun fact: I'm useless  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
+  If you need help about our <a href="https://profilinator.rishav.dev/" target="_blank">Discord Music Bot</a> join our <a href="https://discord.gg/AaGN76ZmEq" target="_blank"> Discord Server</a>
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Tiramitzu" target="_blank">
@@ -101,4 +51,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">A part of it is generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
