@@ -11,7 +11,7 @@
   
   My current project is something kinda like AI for android?
   
-  If you need help about our <a href="https://profilinator.rishav.dev/" target="_blank">Discord Music Bot</a> join our <a href="https://discord.gg/AaGN76ZmEq" target="_blank"> Discord Server</a>
+  If you need help about our <a href="https://profilinator.rishav.dev/" target="_blank">Discord Music Bot</a> join us at <a href="https://discord.gg/AaGN76ZmEq" target="_blank"> Discord</a>
  
  ----
  
