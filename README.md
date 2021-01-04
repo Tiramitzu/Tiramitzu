@@ -17,6 +17,7 @@
  
  ### Recent Github Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2749](https://github.com/PreMiD/Presences/issues/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
  ----
   
