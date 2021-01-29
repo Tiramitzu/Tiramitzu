@@ -9,7 +9,7 @@
   and more about 
   <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25"/>
   
-  My current project is something kinda like AI for android?
+  My current project is something kinda like AI for android? or nah.
   
   If you need help about our <a href="https://profilinator.rishav.dev/" target="_blank">Discord Music Bot</a> join us at <a href="https://discord.gg/AaGN76ZmEq" target="_blank"> Discord</a>
  
