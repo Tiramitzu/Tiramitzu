@@ -17,7 +17,7 @@
  
  ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2749](https://github.com/PreMiD/Presences/issues/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+1. 💪 Opened PR [#47](https://github.com/zhycorp/whatsapp-bot/pull/47) in [zhycorp/whatsapp-bot](https://github.com/zhycorp/whatsapp-bot)
 <!--END_SECTION:activity-->
  ----
   
